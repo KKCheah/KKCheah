@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KKCheah
-- 👀 I’m interested in learning to code and change career pathways!
+- 👀 I’m interested in learning to code
 - 🌱 Blockchain and Web development
 - 💪 https://cryptophoenix.org/phoenix/
 - 💞️ I’m looking to collaborate on anything and everything related to web dev and blockchain related topics
